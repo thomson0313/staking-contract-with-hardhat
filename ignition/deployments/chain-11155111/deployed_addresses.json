@@ -1,0 +1,7 @@
+{
+  "TokenModule#Token": "0x1aD9d296F8254229473804805103aCB260a9B098",
+  "ProxyModule#PresaleV1": "0xea68673d017d86dE69aD517D82de2C3D03C328D7",
+  "ProxyModule#TransparentUpgradeableProxy": "0xfac7Be0a7AC8AE633607BA3355C2033A79DEA777",
+  "ProxyModule#ProxyAdmin": "0x834CEF282224ce12ae93789d85027F71e6c2e26d",
+  "PresaleModule#PresaleV1": "0xfac7Be0a7AC8AE633607BA3355C2033A79DEA777"
+}
